@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>Batsman</item>
+        <item>Bowler</item>
+        <item>All-Rounder</item>
+        <item>Wicket-Keeper</item>
+    </string-array>
+</resources>
